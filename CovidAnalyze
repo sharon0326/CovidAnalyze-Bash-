@@ -1,6 +1,4 @@
 #!/bin/bash
-#Name: Hetong Shen   ID: 260953511
-
 errorMsg(){
         if [[ $1 == 1 ]]
         then
